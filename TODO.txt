@@ -1,4 +1,5 @@
 
-* return CSV with response
-	* figure out response CSV format 
+* try creating .EXE
+* give to derrick for testing
+* create a webapp
 
